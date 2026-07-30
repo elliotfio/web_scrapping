@@ -1,0 +1,24 @@
+; Copiez ce fichier en config.ini avant de lancer le collecteur.
+; Aucun secret ici : la cible est publique et ne nécessite pas d'authentification.
+
+[scraping]
+; Page de depart (liste des parcs)
+base_url = https://kws.go.ke/parks/
+
+; Identification honnete de l'agent, avec un contact valide.
+user_agent = TP-Scraping-Formation/1.0 (usage pedagogique; contact: votre.email@example.com)
+
+; Delai minimal en secondes entre deux requetes HTTP (debit faible impose par le TP).
+delay_seconds = 1.5
+
+; Delai d'attente maximal pour chaque requete.
+timeout_seconds = 15
+
+; Nombre de tentatives en cas d'echec reseau transitoire.
+max_retries = 3
+
+; Plafond d'objets a collecter (fiche de cible S09 : 60 objets maximum).
+max_items = 60
+
+; Dossier de sortie (JSON + traces).
+output_dir = output
