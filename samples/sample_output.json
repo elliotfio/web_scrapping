@@ -1,0 +1,79 @@
+[
+  {
+    "id": "aberdare-national-park",
+    "name": "Aberdare National Park",
+    "type": "national_park",
+    "region": null,
+    "summary": "Rising as a cool, mist-cloaked volcanic range along the eastern wall of the Rift Valley, the Aberdare offers a striking contrast to Kenya’s open savannahs. This mountainous park is defined by thick tropical forests, high peaks, deep ravines, icy streams, and cascading waterfalls, creating some of the country’s most dramatic scenery.",
+    "url": "https://kws.go.ke/park/aberdare-national-park/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/aberdare-national-park/",
+    "collected_at": "2026-07-30T12:54:52.996216+00:00"
+  },
+  {
+    "id": "amboseli-national-park",
+    "name": "Amboseli National Park",
+    "type": "national_park",
+    "region": null,
+    "summary": "Perfect for a classic wildlife safari, Amboseli National Park is one of Africa’s premier destinations for close encounters with large elephant herds. Its expansive ecosystem of open grass plains, acacia woodlands, thorny bushland, swamps, and marshes sustains a rich diversity of wildlife—including an impressive variety of birdlife—making Amboseli a rewarding destination for birdwatchers beneath the iconic backdrop of Mount Kilimanjaro.",
+    "url": "https://kws.go.ke/park/amboseli-national-park/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/amboseli-national-park/",
+    "collected_at": "2026-07-30T12:54:53.819440+00:00"
+  },
+  {
+    "id": "central-island-national-park",
+    "name": "Central Island National Park",
+    "type": "national_park",
+    "region": null,
+    "summary": "Central Island National Park lies almost at the heart of Lake Turkana, the world’s largest permanent desert lake and a designated UNESCO World Heritage Site. This remote volcanic island offers one of Kenya’s most dramatic landscapes. The Island is globally renowned as the breeding ground for the world’s largest concentration of Nile crocodiles, earning it the local name Chooro (Crocodile Island). Formed by three active volcanoes, Central Island creates a raw and breathtaking scenery ideal for visual storytelling and filmmaking. Over time, several volcanic craters have merged to form three striking crater lakes—Crocodile, Flamingo and Tilapia—each supporting unique ecological systems. Its extreme remoteness, vast open skies and minimal light pollution make Central Island an exceptional location for astro tourism and night wildlife safaris, where volcanic silhouettes, star-filled skies and nocturnal sounds create an unforgettable wilderness experience. Deeply connected to the culture and heritage of surrounding communities, the Park stands as a powerful symbol of nature, geology and human history intertwined in one extraordinary landscape.",
+    "url": "https://kws.go.ke/park/central-island-national-park/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/central-island-national-park/",
+    "collected_at": "2026-07-30T12:54:57.684383+00:00"
+  },
+  {
+    "id": "chyulu-hills-national-park",
+    "name": "Chyulu Hills National Park",
+    "type": "national_park",
+    "region": null,
+    "summary": "Chyulu Hills National Park is a haven for adventure and serene wellness retreats, defined by verdant rolling hills, endless green bush, expansive blue skies, and sweeping panoramic views.",
+    "url": "https://kws.go.ke/park/chyulu-hills-national-park/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/chyulu-hills-national-park/",
+    "collected_at": "2026-07-30T12:54:58.790156+00:00"
+  },
+  {
+    "id": "diani-chale-national-reserve",
+    "name": "Diani Chale National Reserve",
+    "type": "national_reserve",
+    "region": null,
+    "summary": "Set along Kenya’s spectacular southern coastline in Kwale County, Diani Chale Marine National Reserve is a breathtaking coastal marine reserve offering immersive marine excursions, adventure-filled water sports, and refreshing coastal escapes. This protected seascape features turquoise waters, vibrant coral reefs, mangrove forests, seagrass beds, and offshore islands that support rich marine life, including dolphins, diverse fish species, and vital nesting grounds for endangered sea turtles.",
+    "url": "https://kws.go.ke/park/diani-chale-national-reserve/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/diani-chale-national-reserve/",
+    "collected_at": "2026-07-30T12:55:00.327170+00:00"
+  },
+  {
+    "id": "hells-gate-national-park",
+    "name": "Hell’s Gate National Park",
+    "type": "national_park",
+    "region": null,
+    "summary": "Tucked deep within the floor of the Great Rift Valley, Hell’s Gate National Park offers an exhilarating blend of adventure, wellness, and breathtaking scenery.",
+    "url": "https://kws.go.ke/park/hells-gate-national-park/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/hells-gate-national-park/",
+    "collected_at": "2026-07-30T12:55:02.084728+00:00"
+  },
+  {
+    "id": "kakamega-forest-national-reserve",
+    "name": "Kakamega Forest National Reserve",
+    "type": "national_reserve",
+    "region": null,
+    "summary": "Kakamega Forest National Reserve is Kenya’s only surviving remnant of the once-vast Central African tropical rainforest—a biodiversity hotspot and designated Important Bird Area (IBA), making it a true paradise for birdwatchers. Home to hundreds of bird species, rare De Brazza’s monkeys, primates, butterflies, snakes, towering indigenous trees, and natural glades, the forest offers rich wildlife encounters set against scenic, breathtaking landscapes.",
+    "url": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+    "fees_present": true,
+    "source_url": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+    "collected_at": "2026-07-30T12:55:03.227814+00:00"
+  }
+]
